@@ -1,5 +1,0 @@
-{
-    "clangd.arguments": [
-        "--query-driver=C:/Users/matthew.moore/scoop/apps/gcc/current/bin/gcc.exe"
-    ]
-}

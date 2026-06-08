@@ -1,3 +1,0 @@
-CompileFlags:
-  Compiler: C:/Users/matthew.moore/scoop/apps/gcc/current/bin/gcc.exe
-  Add: [-std=c17]
